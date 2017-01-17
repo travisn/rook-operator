@@ -1,0 +1,11 @@
+.vscode/
+
+/.glide
+/.work
+/.external
+
+/bin
+/vendor
+/release
+
+rook-operator
